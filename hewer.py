@@ -1,6 +1,8 @@
 import pygame
 import random
 
+#test
+
 FENETRE_LARGEUR = 800
 FENETRE_HAUTEUR = 700
 
